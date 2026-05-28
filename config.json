@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencelete",
+        "uuid": 37264612,
+        "checksum": "x54sfn"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
